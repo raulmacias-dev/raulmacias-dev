@@ -1,6 +1,6 @@
 <!-- # ![https://raulmacias.es](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) -->
 # ✨ Hello ✨, my name is Raúl Macías
-### Android & iOS Developer
+### Web & Mobile Developer
 
 <!-- ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png) -->
 
