@@ -1,12 +1,10 @@
-<!-- # ![https://raulmacias.es](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) -->
-# ✨ Hi ✨, my name is Raúl Macías
-### Software Developer
+# ![alt text](https://github.com/raulmacias-dev/raulmacias-dev/blob/935d7cce23cf60590226da5cce13a549cebd017d/raulmacias-dev.png)
+# 👋 Hola, mi nombre es Raúl Macías
+## 🗨️ Soy desarrollador de software profesional desde hace más de diez años.
 
 <!-- ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png) -->
 
-I'm a professional software developer for more than ten years.
-
-## Skills:
+## 🪄 Skills:
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-1575F9?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
@@ -50,4 +48,4 @@ I'm a professional software developer for more than ten years.
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-And more...
+### y más...
