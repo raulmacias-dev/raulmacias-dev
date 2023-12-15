@@ -2,8 +2,6 @@
 # 👋 Hola, mi nombre es Raúl Macías
 ## 🗨️ Soy desarrollador de software profesional desde hace más de diez años.
 
-<!-- ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png) -->
-
 ## 🪄 Skills:
 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
